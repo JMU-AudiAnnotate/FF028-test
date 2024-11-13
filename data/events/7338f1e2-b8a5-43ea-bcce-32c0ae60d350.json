@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "06909703-5e96-4215-af1d-3a04a46102d0": {
+      "label": "AV File 3",
+      "file_url": "https://aviary-p-jmu.s3.wasabisys.com/collection_resource_files/resource_files/000/214/772/original/open-uri20231107-480-mygsk.mp4?1699365293",
+      "duration": 3490.909
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "video 3"
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-11-13T19:01:16.251Z",
+  "created_by": "JMU-AudiAnnotate",
+  "item_type": "Video",
+  "label": "Imported Event 3",
+  "updated_at": "2024-11-13T19:01:16.251Z",
+  "updated_by": "JMU-AudiAnnotate"
+}
