@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "JMU-AudiAnnotate",
+    "is_private": false,
+    "title": "Critics’ Roundtable: African American Poetry and the Vernacular Matrix, 1994 September 29",
+    "description": "tThe Critics' Roundtable, \"African American Poetry and the Vernacular Matrix,\" was held at the Grafton-Stovall Theatre at James Madison University on Thursday, September 29, 1994 at 9:30 a.m. Original 1994 Furious Flower Poetry Conference program reads, \"African American poetry, perhaps more so than fiction and drama, has lent and continues to lend itself to the thematic and formalistic expression of its matrixing in African American culture, in the vernacular (folk and popular) culture in particular. This roundtable will investigate the nature and extent of this matrixing. It will consider the relationship of the folk to the popular vernacular mode, whether \"continuity\" or \"disjuncture\" best describes that relationship and how the difference between the two is imprinted upon the literature. It will also consider the nature and validity of rural/urban, southern/northern distinctions as they apply to cultural expressive manifestations such as the blues, and the degree to which these distinctions spill over into the poetry as a literary production. (Alvin Aubert)\" This footage was originally recorded on 3 MII videocassettes.",
+    "language": "en",
+    "slug": "FF028-test",
+    "creator": "JMU-AudiAnnotate",
+    "authors": "Furious Flower Poetry Center",
+    "media_player": "aviary",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2024-11-13T18:58:43.417Z",
+    "updated_at": "2024-11-13T18:58:43.417Z"
   }
 }
